@@ -1,4 +1,4 @@
-# Yoga Pose Detection - ML Project
+# Yoga Pose Detection - Project
 
 An AI-powered yoga pose detector that identifies 8 fundamental yoga asanas using a custom-trained CNN.
 
