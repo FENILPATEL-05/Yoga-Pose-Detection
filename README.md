@@ -57,7 +57,23 @@ Run `yoga_api.ipynb` to start the prediction API endpoint.
 
 See `requirements.txt` for all dependencies.
 
-## 📄 License
+## � Screenshots
+
+### Web Interface
+
+**Hero Section**
+![Hero](images/header.png)
+
+**Upload & Detection**
+![Upload](images/upload.png)
+
+**Results Display**
+![Results](images/result.png)
+
+**Footer & Links**
+![Footer](images/footer.png)
+
+## �📄 License
 
 This project is open source.
 
